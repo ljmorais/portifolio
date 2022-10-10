@@ -1,3 +1,3 @@
 # portifolio
-Portifolio dOS Programas elaborados. HTML, CSS, JS E PHYTON
+Portifolio dos Programas elaborados. HTML, CSS, JS E PHYTON
 
