@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+}
+
+#button {
+    border-radius: 10px 10px 10px ;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    padding: auto;
+    margin-top: 3%;
+}
