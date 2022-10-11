@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.936),rgba(255, 255, 255, 0.299));
+    font-size: large;
+    font-style: arial;
+    display: inline;
+    flex-direction: column;
+}
+.lamp {
+    padding: auto;
+    width: 50%;
+    height: 50%;
+}
+button{
+    width: 80px;
+}
